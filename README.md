@@ -1,63 +1,93 @@
-# Hi there 👋, I'm Supesh Ugale
+<div align="center">
 
-🚀 Aspiring Full Stack Developer | 💻 React & Node.js Enthusiast | 🌱 Learning Every Day
+# 👋 Hi, I'm Supesh Ugale  
+### 🚀 Full Stack Developer | React | Node.js | MongoDB
+
+</div>
+
+---
+
+<div>
+
+## 🧑‍💻 About Me
+
+- 🌱 Currently learning **Full Stack Web Development**
+- 🔭 Working on **MERN Stack Projects**
+- 👯 Looking to collaborate on **real-world web apps**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js**
+- ⚡ Fun fact: I love building projects more than watching tutorials 😄
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
-- 🔭 I’m currently working on Full Stack Web Development projects  
-- 🌱 I’m currently learning React, Node.js, MongoDB  
-- 👯 I’m looking to collaborate on real-world web apps  
-- 💬 Ask me about HTML, CSS, JavaScript, React, Node.js  
-- 📫 How to reach me: your-email@example.com  
-- ⚡ Fun fact: I love building projects more than just watching tutorials 😄  
-
----
+<div>
 
 ## 🛠️ Tech Stack
 
-**Frontend:**
-- HTML5, CSS3, JavaScript
-- React.js
-- Tailwind CSS (if you use it)
+### Frontend
+- HTML5, CSS3, JavaScript  
+- React.js  
+- Tailwind CSS  
 
-**Backend:**
-- Node.js
-- Express.js
+### Backend
+- Node.js  
+- Express.js  
 
-**Database:**
-- MongoDB
+### Database
+- MongoDB  
 
-**Tools:**
-- Git & GitHub
-- VS Code
-- Postman
+### Tools
+- Git & GitHub  
+- VS Code  
+- Postman  
 
----
-
-## 📂 My Projects
-
-- 🛒 E-Commerce Website (MERN Stack)
-- 📁 Portfolio Website
-- 📊 Student Management System
-- 🔐 Login & Authentication System
+</div>
 
 ---
 
-## 📈 GitHub Stats
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+## 📂 Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+</div>
+
+<div>
+
+- 🛒 **E-Commerce Website (MERN Stack)**  
+- 📁 **Portfolio Website (React + CSS)**  
+- 📊 **Student Management System**  
+- 🔐 **Login & Authentication System**
+
+</div>
 
 ---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" width="48%"/>
+
+</div>
+
+---
+
+<div align="center">
 
 ## 🔗 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-profile  
-- GitHub: https://github.com/your-username  
-- Portfolio: https://your-portfolio-link.com  
+<a href="https://linkedin.com/in/your-profile">LinkedIn</a> •  
+<a href="https://github.com/your-username">GitHub</a> •  
+<a href="https://your-portfolio.com">Portfolio</a>
+
+</div>
 
 ---
 
-⭐ *"Code. Learn. Build. Repeat."*
+<div align="center">
+
+### ⭐ "Code. Learn. Build. Repeat."
+
+</div>
